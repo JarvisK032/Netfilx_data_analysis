@@ -6,7 +6,7 @@ I'm analysing the database from [Netflix Movies and TV Shows](https://www.kaggle
 
 The link below is a walkthrough of the code and my result.
 
-[Software walkthrough Video](http://youtube.link.goes.here)
+[Software walkthrough Video](https://youtu.be/Fkgfy9WFRHo)
 
 # Data Analysis Results
 What is TV shows release in 2021 and their duration?
